@@ -1,6 +1,6 @@
 inicio{
 "host":"frzvcdjBmvAJ/6P0fpvSAV+V5uMBJA==",
 "porta":"CbyZhQEGptRObG41",
-"contador":"YFgSUeKKWAfWC5t7+ApJe7f9UpMdlqUWU8rK6hMYfu10zonUiQTwChmLIzobVAU74y/YSQ==",
+"contador":"xuSYVeMEo7w1caXPldn24gRB7Wp+J+b5m79jyoRB3CFGaH3mKYAgOFchBpAhY9tD",
 "spammer":"J6T8EjYq1qC7cdqX9hlj"
 }fim
